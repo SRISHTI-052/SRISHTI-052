@@ -14,7 +14,7 @@ HTML, CSS, and JavaScript: I enjoy the art of web development, crafting engaging
 
 **Get in Touch**
 
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/srishti-srishti-2535ab261/)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/srishti-2535ab261/)
 - 📧 Drop me an email at [srishti.arora052@gmail.com](mailto:srishti.arora052@gmail.com)
 
 Explore my projects below and let's connect for exciting collaborations! 🌐
